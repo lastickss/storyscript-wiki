@@ -10,8 +10,8 @@ description: This page shows all the commands in the script file.
 &#x20;               Output: `[John] Hello!`
 
 `setColor` – Setting the color of the personage's name.\
-&#x20;                         Usage: `setColor "<color>"`.\
-&#x20;                         Example: `setColor "red"`.
+&#x20;                         Usage: `setColor <color>`.\
+&#x20;                         Example: `setColor red`.
 
 {% hint style="info" %}
 **A note on setColor**
@@ -23,10 +23,9 @@ The color can be set either in hex format (#ffffff) or choose from 16 standard M
 &#x20;             Usage: `run <command>`.\
 &#x20;             Example: `run kill @a`.
 
-`waitKey` – Waits for the [key](../misc/keys.md) to be pressed before executing the following script commands.\
-&#x20;                       Usage: `waitKey`.
+`setVar` – sets the variable.\
+&#x20;             Usage: `setVar <variable name> <variable value>`\
+&#x20;             Example: `setVar playerName John`
 
-`sleep` – Waits for the specified time (in seconds) before executing the following commands.\
-&#x20;                  Usage: `sleep <time>`.\
-&#x20;                  Example: `sleep 5`.\
-&#x20;                    Waits `5` seconds before executing the following commands.
+You can also get the value of a variable in the msg command using `$$<variable name>`.\
+&#x20;             Example: `msg "NPC" His name is $$playerName`.

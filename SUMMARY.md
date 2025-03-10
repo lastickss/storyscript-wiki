@@ -1,6 +1,8 @@
 # Table of contents
 
 * [👋 Welcome to StoryScript](README.md)
+* [🌏 More languages](more-languages.md)
+* [🆕 Change log](change-log.md)
 
 ## 💾 Basics
 
@@ -10,11 +12,3 @@
 ## 🎛️ Commands
 
 * [🔌 Script commands](commands/script-commands.md)
-
-## ⚙️ Misc
-
-* [💻 Keys](misc/keys.md)
-
-***
-
-* [🌏 More languages](more-languages.md)
