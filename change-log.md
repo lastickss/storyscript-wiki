@@ -1,5 +1,13 @@
 # 🆕 Change log
 
+## 0.1.1+1.20.4
+
+***
+
+* Added a test interface that displays the mod version (opens with `/sscript` command).
+* Added script command `sleep <number of seconds>` , which waits for some time before executing the next command.
+* Now when a script error occurs, the line where the error occurred is displayed.
+
 ## 0.1-1.20.4
 
 ***
