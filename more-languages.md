@@ -1,5 +1,6 @@
 ---
 description: This page contains links to other languages of this wiki
+hidden: true
 ---
 
 # 🌏 More languages
