@@ -12,3 +12,7 @@
 ## 🎛️ Commands
 
 * [🔌 Script commands](commands/script-commands.md)
+
+## FOR DEVELOPERS
+
+* [IScriptCommand API](for-developers/iscriptcommand-api.md)
