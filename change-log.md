@@ -2,6 +2,8 @@
 
 ## 0.2+1.21.1
 
+From November 19, 2025
+
 ***
 
 * Migrated the mod to Minecraft 1.21.1.
