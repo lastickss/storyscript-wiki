@@ -1,5 +1,13 @@
 # 🆕 Change log
 
+## 0.2.1+1.21.1
+
+From November 29, 2025
+
+***
+
+– fixed a bug where running `msg Name message with several words` would only show **“\[Name] message”**, and everything after the first word just vanished.
+
 ## 0.2+1.21.1
 
 From November 19, 2025
